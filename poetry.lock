@@ -105,7 +105,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "libodb"
-version = "1.0.0"
+version = "1.0.1"
 description = "A client library for accessing the OpenDiscordBots API"
 category = "main"
 optional = false
@@ -238,8 +238,8 @@ multidict = ">=4.0"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "8de7c875a788614939bb7c815734069ed04ee1d2d460d08670de2edc2647ca32"
+python-versions = "^3.10"
+content-hash = "0b64a845663d13315692c45772e7171667ff5385f14b5907f682677055ffdf3c"
 
 [metadata.files]
 aiohttp = [
@@ -419,8 +419,8 @@ idna = [
     {file = "idna-3.3.tar.gz", hash = "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"},
 ]
 libodb = [
-    {file = "libodb-1.0.0-py3-none-any.whl", hash = "sha256:067789ac3bfac753ada4754dd23b61b021ad334eed27a203b066c5e4d4a0c996"},
-    {file = "libodb-1.0.0.tar.gz", hash = "sha256:ee07a2a5a9cd6d881fbff8d2cfd30e286eeb7efb3a7f7a7688d7c33e83687c0d"},
+    {file = "libodb-1.0.1-py3-none-any.whl", hash = "sha256:87103a80ac980006c165e4067bdd12577a9cadead014c0dac30177232d4cf3a6"},
+    {file = "libodb-1.0.1.tar.gz", hash = "sha256:c4c22b928684942135f4f039b38277a6cc1392b1e87a815eeade68eca01e38e7"},
 ]
 loguru = [
     {file = "loguru-0.5.3-py3-none-any.whl", hash = "sha256:f8087ac396b5ee5f67c963b495d615ebbceac2796379599820e324419d53667c"},
