@@ -8,7 +8,7 @@ load_dotenv()
 
 
 def main() -> None:
-    bot = Bot(command_prefix="ap!", test_guilds=[683009037830324235])
+    bot = Bot(command_prefix="ap!")
     bot.load_extensions(
         [
             "src.exts.ping",
